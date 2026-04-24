@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="folder-open.svg">icons/svg/folder-open.svg</file>
+        <file alias="file-text.svg">icons/svg/file-text.svg</file>
+        <file alias="save.svg">icons/svg/save.svg</file>
+        <file alias="git-compare.svg">icons/svg/git-compare.svg</file>
+        <file alias="merge.svg">icons/svg/merge.svg</file>
+        <file alias="refresh-cw.svg">icons/svg/refresh-cw.svg</file>
+        <file alias="sun.svg">icons/svg/sun.svg</file>
+        <file alias="moon.svg">icons/svg/moon.svg</file>
+        <file alias="plus.svg">icons/svg/plus.svg</file>
+        <file alias="minus.svg">icons/svg/minus.svg</file>
+        <file alias="pencil.svg">icons/svg/pencil.svg</file>
+        <file alias="x.svg">icons/svg/x.svg</file>
+        <file alias="undo.svg">icons/svg/undo.svg</file>
+        <file alias="app_icon.png">icons/svg/app_icon.png</file>
+    </qresource>
+</RCC>

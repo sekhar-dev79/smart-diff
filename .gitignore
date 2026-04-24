@@ -1,0 +1,24 @@
+# C++ / Qt Build Artifacts
+*.o
+*.obj
+*.exe
+*.dll
+Makefile*
+SmartDiff
+.qmake.stash
+
+# Qt Generated Files
+ui_*.h
+moc_*.cpp
+moc_predefs.h
+qrc_*.cpp
+
+# IDE / OS specific
+.vscode/
+.idea/
+build/
+release/
+debug/
+*.user
+Thumbs.db
+.DS_Store
